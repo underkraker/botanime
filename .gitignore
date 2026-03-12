@@ -1,0 +1,9 @@
+node_modules/
+.next/
+dist/
+.env
+.env.local
+npm-debug.log*
+*.db
+apps/api/data/*.db
+apps/api/apps/api/data/*.db
